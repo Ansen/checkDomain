@@ -4,3 +4,8 @@ Check whether the domain name can be registered, and send a WeChat message remin
 
 
 > Please modify the config.py and main.py before running.
+
+
+## Wechat Api
+
+> https://work.weixin.qq.com/api/doc/90000/90135/90236
